@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me 🫡
+I am a rising third year at UC Berkeley's College of Engineering, majoring in Industrial Engineering/Operations Research, with a double major in Electrical Engineering and Computer Sciences. I am actively looking for internship opportunities to learn more about the intersection of hardware and software along with exploring the world of machine learning and data!
+
+I 
