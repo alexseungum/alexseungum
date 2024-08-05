@@ -1,5 +1,3 @@
-## Hi! I'm Alex 👋
-
 <!--
 **alexseungum/alexseungum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me 🫡
-I am a rising third year at UC Berkeley's College of Engineering, majoring in Industrial Engineering/Operations Research, with a double major in Electrical Engineering and Computer Sciences. I am actively looking for internship opportunities to learn more about the intersection of hardware and software along with exploring the world of machine learning and data!
+## Hi! I'm Alex 👋
+I am a Junior at UC Berkeley, majoring in Industrial Engineering/Operations Research, with a double major in Electrical Engineering and Computer Sciences. 
 
-I 
+## About Me 🫡
+My technical interests lie in Machine Learning, Computer Architecture and Circuits. In my free time, I like to play the piano, video games (League, Valorant, Gachas), swim, and watch romcom anime. 
