@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi! I'm Alex 👋
-I am a Junior at UC Berkeley, majoring in Industrial Engineering/Operations Research, with a double major in Electrical Engineering and Computer Sciences. 
+I am a Junior at UC Berkeley.
 
 ## About Me 🫡
 My technical interests lie in Machine Learning, Computer Architecture and Circuits. In my free time, I like to play the piano, video games (League, Valorant, Gachas), swim, and watch romcom anime. 
