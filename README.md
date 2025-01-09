@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 -->
 ## Hi! I'm Alex 👋
 I am a Junior at UC Berkeley.
-
-## About Me 🫡
-My technical interests lie in Machine Learning, Computer Architecture and Circuits. In my free time, I like to play the piano, video games (League, Valorant, Gachas), swim, and watch romcom anime. 
