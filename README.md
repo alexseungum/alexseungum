@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi! I'm Alex 👋
-I am a Junior at UC Berkeley.
+I am a Junior at UC Berkeley! I LOOVE github, and I also LOOOVE computer architecture. 
